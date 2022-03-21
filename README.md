@@ -1,7 +1,7 @@
  Hi there 👋 🙂
  
  
- I am Hiba, a MERN Full-stack Developer with passion for the front-end ❤️
+ I am Hiba, a junior MERN Full-stack Developer with passion for the front-end ❤️
  
 **Aboute me:**
  
