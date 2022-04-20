@@ -25,18 +25,11 @@
 
 
 
-💻 **Technologies I would like to learn soon:**
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-
 
 🌻  **Some of my hobbies are**: painting, bullet journaling, reading, trying out new restaurants, alternative therapies
 
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/hiba-berber-926039202/).
+You can contact me via [LinkedIn](https://www.linkedin.com/in/hiba-berber-926039202/) or via email: hiba.berber@gmail.com 
 
 ![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibaber&show_icons=true&theme=radical)
 
