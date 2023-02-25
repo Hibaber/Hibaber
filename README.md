@@ -1,7 +1,7 @@
  Hi there 👋 🙂
  
  
- I am Hiba, a junior Frontend web developer.
+ I am Hiba, a Junior Frontend Web Developer.
  
 **Aboute me:**
  
