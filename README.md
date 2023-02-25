@@ -1,7 +1,7 @@
  Hi there 👋 🙂
  
  
- I am Hiba, a junior MERN Full-stack Developer
+ I am Hiba, a junior Frontend web developer.
  
 **Aboute me:**
  
@@ -26,7 +26,7 @@
 
 
 
-🌻  **Some of my hobbies are**: painting, bullet journaling, reading, trying out new restaurants, alternative therapies
+🌻  **Some of my hobbies are**: major foodie, cinemagoer, traveller, reader, passionate about self-growth and TED Talks
 
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/hiba-berber-926039202/) or via email: hiba.berber@gmail.com 
