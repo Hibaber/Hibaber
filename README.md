@@ -24,12 +24,6 @@
 
 
 
-
-
-
-🌻  **Some of my hobbies are**: major foodie, cinemagoer, traveller, reader, passionate about self-growth and TED Talks
-
-
 You can contact me via [LinkedIn](https://www.linkedin.com/in/hiba-berber-926039202/) or via email: hiba.berber@gmail.com 
 
 ![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibaber&show_icons=true&theme=radical)
